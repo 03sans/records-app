@@ -1,0 +1,1 @@
+#file handling using different modes r,w,a, binary, r+,w+,a+,binary+
